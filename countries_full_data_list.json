@@ -1,0 +1,16 @@
+[
+    {
+        "country_nameAR":"السعودية",
+        "country_nameEN":"saudi arabia",
+        "country_currency":"SAR",
+        "country_code":"SA",
+        "country_dial":"966"
+    },
+    {
+        "country_nameAR":"الهند",
+        "country_nameEN":"india",
+        "country_currency":"INR",
+        "country_code":"IN",
+        "country_dial":"91"
+    }
+]
